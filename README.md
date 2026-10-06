@@ -24,7 +24,8 @@ Pour chaque variable, un nuage de points est tracé face à la moyenne scolaire,
 
 ## Résultats
 
-![Graphiques de corrélation](graphiques_correlation.png)
+![Graphiques de corrélation](<img width="845" height="631" alt="image" src="https://github.com/user-attachments/assets/05a5295d-ea03-427a-9af0-52e3c866742a" />
+)
 
 **1. Heures de révision vs moyenne scolaire**
 Corrélation positive assez nette : plus le temps de révision quotidien augmente, plus la moyenne scolaire tend à être élevée.
